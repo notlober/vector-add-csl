@@ -1,5 +1,7 @@
 #!/usr/bin/env cs_python
 
+# Author: Selahattin Baki Damar
+
 # Copyright 2024 Cerebras Systems.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
