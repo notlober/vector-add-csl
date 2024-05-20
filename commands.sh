@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Author: Selahattin Baki Damar
+
 set -e
 
 cslc ./layout.csl --fabric-dims=11,3 \
